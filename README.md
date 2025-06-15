@@ -8,6 +8,10 @@ This project leverages multiple AI models to analyze basketball game footage, ex
 By combining state-of-the-art object detection (YOLO), zero-shot classification, and a custom-trained keypoint detector, this tool transforms a standard game video into a comprehensive analytical report.
 
 
+https://github.com/user-attachments/assets/42f8715d-bfe1-4890-8b9f-00113fc02f82
+
+
+
 ## ✨ Key Features
 
 -   **Player & Ball Detection**: Utilizes a fine-tuned YOLO model to accurately detect players and the basketball in every frame.
